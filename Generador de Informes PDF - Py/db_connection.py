@@ -1,4 +1,4 @@
-# Conexión a la DB (base de datos)
+# Conexión a la DB (base de datos).
     # Conexiñon reutilizable y segura con MySQL.
 import mysql.connector              # Importa el conector de MySQL.
 
@@ -31,4 +31,5 @@ def connection(host_name, db_name, user_name, user_password):
         # Si ocurre un error durante el proceso de conexión, capturamos la excepción y mostramos un mensaje de error.
         #print(f"\n\n\tError inesperado al intentar conectarse a la base de datos '" + {db_name} + "': {er}")
         raise Exception(f"\n\n\tError inesperado al intentar conectarse a la base de datos '{db_name}': {er}.")
+
     return connection  # Devolvemos el objeto de conexión (puede ser None si la conexión falló).
