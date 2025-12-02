@@ -167,7 +167,7 @@
       2.2º Ejecutar el archivo "main.py"
 
   ◆ Método 3: Doble clic (Windows)
-      3.1º Crear un archivo ejecutar.bat con el siguiente contenido:
+      3.1º Crear un archivo "ejecutar.bat" con el siguiente contenido:
         @echo off
         python main.py
         pause
@@ -419,4 +419,5 @@
 <hr>  
 ¡Gracias por usar Generador de Informes PDF - Sistema de Gestión Hospitalaria! 🏥📄
 Si encuentras algún problema o tienes sugerencias, no dudes en abrir un issue en GitHub.
+
 
