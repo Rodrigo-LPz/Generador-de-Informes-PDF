@@ -172,7 +172,7 @@
         python main.py
         pause
 
-      3.2º Hacer doble clic en ejecutar.bat
+      3.2º Hacer doble clic en "ejecutar.bat".
 
 
 📖 Manual de Usuario
@@ -419,5 +419,6 @@
 <hr>  
 ¡Gracias por usar Generador de Informes PDF - Sistema de Gestión Hospitalaria! 🏥📄
 Si encuentras algún problema o tienes sugerencias, no dudes en abrir un issue en GitHub.
+
 
 
