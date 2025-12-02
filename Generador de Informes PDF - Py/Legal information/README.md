@@ -238,6 +238,7 @@
     - Separadores visuales entre registros.
     - Formato profesional y legible.
     - Tamaño de página A4.
+    - Tipografía Helvetica clara.
 
 
 🗃️ Estructura de la Base de Datos
@@ -419,6 +420,7 @@
 <hr>  
 ¡Gracias por usar Generador de Informes PDF - Sistema de Gestión Hospitalaria! 🏥📄
 Si encuentras algún problema o tienes sugerencias, no dudes en abrir un issue en GitHub.
+
 
 
 
