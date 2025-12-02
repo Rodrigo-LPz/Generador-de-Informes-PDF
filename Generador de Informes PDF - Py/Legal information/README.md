@@ -110,7 +110,7 @@
   1. Paso 1: Clonar o Descargar el Proyecto
     # Si usas Git:
       git clone https://github.com/Rodrigo-LPz/Generador-de-Informes-PDF.git
-      cd generador-informes-pdf
+      cd Generador-de-Informes-PDF
 
     # O también puedes descargar el ZIP y extraer su contenido.
 
@@ -419,3 +419,4 @@
 <hr>  
 ¡Gracias por usar Generador de Informes PDF - Sistema de Gestión Hospitalaria! 🏥📄
 Si encuentras algún problema o tienes sugerencias, no dudes en abrir un issue en GitHub.
+
