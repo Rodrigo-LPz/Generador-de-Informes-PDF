@@ -387,7 +387,7 @@
 
   ◈ Términos de Uso.
     ● Acciones aprobadas - Permitido: ✅
-      ○ Uso personal, educativo y comercial.
+      ○ Uso personal y educativo.
       ○ Modificación del código fuente.
       ○ Distribución con atribución adecuada.
       ○ Uso comercial con licencia MIT.
@@ -420,6 +420,7 @@
 <hr>  
 ¡Gracias por usar Generador de Informes PDF - Sistema de Gestión Hospitalaria! 🏥📄
 Si encuentras algún problema o tienes sugerencias, no dudes en abrir un issue en GitHub.
+
 
 
 
