@@ -325,7 +325,7 @@
       Texto                   Blanco            #FFFFFF
 
   ◈ Tipografía
-    Fuente Principal: Arial
+    Fuente Principal: Arial y Helvetica
     Tamaños: 10pt (normal), 12pt (botones), 14pt-16pt (títulos)
 
   ◈ Resultado visual
@@ -420,6 +420,7 @@
 <hr>  
 ¡Gracias por usar Generador de Informes PDF - Sistema de Gestión Hospitalaria! 🏥📄
 Si encuentras algún problema o tienes sugerencias, no dudes en abrir un issue en GitHub.
+
 
 
 
