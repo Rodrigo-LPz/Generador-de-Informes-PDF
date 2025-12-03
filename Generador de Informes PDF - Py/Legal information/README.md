@@ -319,10 +319,10 @@
       Elemento                Tipo                Código Hex
       Fondo Principal         Azul Oscuro       #2C3E50
       Fondo Secundario        Azul Grisáceo     #34495E
-      Botón Cargar            Verde             #2C3E50
-      Botón Exportar          Azul              #34495E
-      Botón Cancelar          Gris              #2C3E50
-      Texto                   Blanco            #34495E
+      Botón Cargar            Verde             #27AE60
+      Botón Exportar          Azul              #3498DB
+      Botón Cancelar          Gris              #95A5A6
+      Texto                   Blanco            #FFFFFF
 
   ◈ Tipografía
     Fuente Principal: Arial
@@ -420,6 +420,7 @@
 <hr>  
 ¡Gracias por usar Generador de Informes PDF - Sistema de Gestión Hospitalaria! 🏥📄
 Si encuentras algún problema o tienes sugerencias, no dudes en abrir un issue en GitHub.
+
 
 
 
