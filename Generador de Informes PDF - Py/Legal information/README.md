@@ -415,11 +415,12 @@
     ◇ Windows 10/11.
     ◇ macOS 10.15+.
     ◇ Linux (Ubuntu 20.04+).
-    ◇ Python 3.10 - 3.13
+    ◇ Python 3.10 - 3.13.
 
 <hr>  
 ¡Gracias por usar Generador de Informes PDF - Sistema de Gestión Hospitalaria! 🏥📄
 Si encuentras algún problema o tienes sugerencias, no dudes en abrir un issue en GitHub.
+
 
 
 
